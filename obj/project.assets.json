@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "c:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Vitoria\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Vitoria\\Desktop\\SENAI - Full Stack\\UC - Desenvolvimento de API's\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitoria\\AppData\\Roaming\\NuGet\\NuGet.Config"
